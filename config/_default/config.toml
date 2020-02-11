@@ -6,7 +6,7 @@
 
 # Title of your site
 title = "Yumiao Ma @ BSJ Institute"
-
+publishDir = "docs"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
@@ -69,3 +69,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+

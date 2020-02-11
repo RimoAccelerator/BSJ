@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Physical Organic Chemistry | Yumiao Ma @ BSJ Institute</title>
+    <link>/tags/computational-physical-organic-chemistry/</link>
+      <atom:link href="/tags/computational-physical-organic-chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Physical Organic Chemistry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Computational Physical Organic Chemistry</title>
+      <link>/tags/computational-physical-organic-chemistry/</link>
+    </image>
+    
+    <item>
+      <title>Toward Thermodynamically Stable Triplet Carbenes</title>
+      <link>/publication/2019chemrxiv2/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019chemrxiv2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
