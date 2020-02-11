@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yumiao Ma @ BSJ Institute</title>
-    <link>https://rimoaccelerator.github.io/BSJ/</link>
-      <atom:link href="https://rimoaccelerator.github.io/BSJ/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rimoaccelerator.github.io/</link>
+      <atom:link href="https://rimoaccelerator.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yumiao Ma @ BSJ Institute</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yumiao Ma @ BSJ Institute</title>
-      <link>https://rimoaccelerator.github.io/BSJ/</link>
+      <link>https://rimoaccelerator.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://rimoaccelerator.github.io/BSJ/courses/example/example1/</link>
+      <link>https://rimoaccelerator.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/courses/example/example1/</guid>
+      <guid>https://rimoaccelerator.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://rimoaccelerator.github.io/BSJ/courses/example/example2/</link>
+      <link>https://rimoaccelerator.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/courses/example/example2/</guid>
+      <guid>https://rimoaccelerator.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://rimoaccelerator.github.io/BSJ/talk/example/</link>
+      <link>https://rimoaccelerator.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/talk/example/</guid>
+      <guid>https://rimoaccelerator.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title>Computational Physical Organic Chemistry</title>
-      <link>https://rimoaccelerator.github.io/BSJ/project/physical/</link>
+      <link>https://rimoaccelerator.github.io/project/physical/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/project/physical/</guid>
+      <guid>https://rimoaccelerator.github.io/project/physical/</guid>
       <description>&lt;p&gt;Computations have been widely used to understand fundamental physical organic concepts. By combining physical organic analysis, energy calculations and wavefunction analysis, one can obtain direct and accurate understanding toward the existence and origin of important interactions in a molecule. One of Ma&amp;rsquo;s internet publication program, &amp;ldquo;Talks on Modern Physical Organic Chemistry&amp;rdquo;, focuses on some advanced and important topics in physical organic chemistry and their rapid development. By combining electronic structure calculations, these topics are to be discussed in a quantatative and logical way in this program.&lt;/p&gt;
 &lt;p&gt;Guided by calculations and wavefunction analysis, Ma is able to design molecules with novel electronic structure, as well as novel reactions. One example is Ma&amp;rsquo;s work on thermodynamically stable triplet carbenes.&lt;/p&gt;
 &lt;p&gt;Another aim of research in this field is to obtain clear solution to some long-standing problems in the history of physical organic chemistry. Ma is working on several researched in this area.&lt;/p&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>Explicit Solvation and Dynamical Effect</title>
-      <link>https://rimoaccelerator.github.io/BSJ/project/explicit/</link>
+      <link>https://rimoaccelerator.github.io/project/explicit/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/project/explicit/</guid>
+      <guid>https://rimoaccelerator.github.io/project/explicit/</guid>
       <description>&lt;p&gt;Inspired by (and under the kind help of) Prof. Singleton (Texas A&amp;amp;M University), Ma&amp;rsquo;s interest turned to advanced chemical theories beyound transition state theory (TST). This field mainly consists of bifurcation, plateu reactions, explicit solvation, etc.&lt;/p&gt;
 &lt;p&gt;Singleton&amp;rsquo;s work in 2016 has revealed that the regioselectivity of toluene nitration is determined by solvation dynamics. It is the starting point for Ma to get into the field of dynamical effects. In 2019 Ma examined the SNAr reaction between sodium methoxide and 4-nitrobenzonitrile. Although standard DFT calculation under implicit solvation predicted that the reaction would be rapid and complete, the experiments showed rather different results. By using explicit solvation model with 62 solvent (DMSO) molecules, Ma discovered that the free energy surface was greatly modified by the presence of solvents. I.e. implicit solvation model gave totally wrong free energy surface (FES), although DMSO does not directly participate in the reaction Molecular dynamics with explicit solvation gave satisfying explanation for the experimental observations. The modification of FES was attributed to the entropy effect due to solvent dynamics. To the best of Ma&amp;rsquo;s knowledge, it is the first work showing that explicit solvation could significantly modify the FES for small molecular reactions.&lt;/p&gt;
 &lt;p&gt;Obviously the influence of explicit solvation is rather complex. In the current stage, the only way to account for it is to run molecular dynamics, which is time-consuming. There are two ways to overcome this problem. First, to propose a new theory (or a new semi-emperical model just like implicit solvation used currently) to account for the dynamical effect of solvents. Second, to make DFT calculations 100 times faster.&lt;/p&gt;
@@ -101,9 +101,9 @@
     
     <item>
       <title>Mechanistic Research</title>
-      <link>https://rimoaccelerator.github.io/BSJ/project/mechanistic/</link>
+      <link>https://rimoaccelerator.github.io/project/mechanistic/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/project/mechanistic/</guid>
+      <guid>https://rimoaccelerator.github.io/project/mechanistic/</guid>
       <description>&lt;p&gt;The experimental data for chemical reactions have been exploding in the past years. Instead of considering chemistry as a stack of trials and errors, the importance of rational design for the development of new transformations has been more and more important. Mechanistic research is the foundation for understanding chemical behavior and designing chemical reactions. In complemention to experimental methods, DFT calculations have been shown to be a powerful tool to gain deep insight into reaction mechanism. By combining mechanistic calculation and electronic structural analysis, new reaction modes are to be discovered.&lt;/p&gt;
 &lt;p&gt;By using DFT calculations, the mechanism for low-valent cobalt complexes catalyzed hydrosilylation of alkynes was revealed, and new guidelines for further ligand designing were obtained. There is still some further questions in this field and further work is under consideration.&lt;/p&gt;
 &lt;p&gt;Yumiao Ma considers DFT calculations in the &amp;ldquo;position zero&amp;rdquo; in the life of a &amp;ldquo;mechanistic hunter&amp;rdquo;. The basic interest  of Yumiao Ma in this field is to rediscover some new insights from experimentally reported methodologies.&lt;/p&gt;
@@ -112,17 +112,17 @@
     
     <item>
       <title>Toward Thermodynamically Stable Triplet Carbenes</title>
-      <link>https://rimoaccelerator.github.io/BSJ/publication/2019chemrxiv2/</link>
+      <link>https://rimoaccelerator.github.io/publication/2019chemrxiv2/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/publication/2019chemrxiv2/</guid>
+      <guid>https://rimoaccelerator.github.io/publication/2019chemrxiv2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://rimoaccelerator.github.io/BSJ/post/writing-technical-content/</link>
+      <link>https://rimoaccelerator.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/post/writing-technical-content/</guid>
+      <guid>https://rimoaccelerator.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -354,17 +354,17 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Solvent Molecules Play a Role in an SNAr Reaction</title>
-      <link>https://rimoaccelerator.github.io/BSJ/publication/2019chemrxiv1/</link>
+      <link>https://rimoaccelerator.github.io/publication/2019chemrxiv1/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/publication/2019chemrxiv1/</guid>
+      <guid>https://rimoaccelerator.github.io/publication/2019chemrxiv1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://rimoaccelerator.github.io/BSJ/post/jupyter/</link>
+      <link>https://rimoaccelerator.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/post/jupyter/</guid>
+      <guid>https://rimoaccelerator.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -411,9 +411,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://rimoaccelerator.github.io/BSJ/slides2/example/</link>
+      <link>https://rimoaccelerator.github.io/slides2/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/slides2/example/</guid>
+      <guid>https://rimoaccelerator.github.io/slides2/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -544,17 +544,17 @@ Three
     
     <item>
       <title>Computation Revealed Mechanistic Complexity of Low-Valent Cobalt-Catalyzed Markovnikov Hydrosilylation</title>
-      <link>https://rimoaccelerator.github.io/BSJ/publication/2018joc/</link>
+      <link>https://rimoaccelerator.github.io/publication/2018joc/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/publication/2018joc/</guid>
+      <guid>https://rimoaccelerator.github.io/publication/2018joc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://rimoaccelerator.github.io/BSJ/post/getting-started/</link>
+      <link>https://rimoaccelerator.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/post/getting-started/</guid>
+      <guid>https://rimoaccelerator.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 

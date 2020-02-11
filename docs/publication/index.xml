@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Yumiao Ma @ BSJ Institute</title>
-    <link>https://rimoaccelerator.github.io/BSJ/publication/</link>
-      <atom:link href="https://rimoaccelerator.github.io/BSJ/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rimoaccelerator.github.io/publication/</link>
+      <atom:link href="https://rimoaccelerator.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
-      <link>https://rimoaccelerator.github.io/BSJ/publication/</link>
+      <link>https://rimoaccelerator.github.io/publication/</link>
     </image>
     
     <item>
       <title>Toward Thermodynamically Stable Triplet Carbenes</title>
-      <link>https://rimoaccelerator.github.io/BSJ/publication/2019chemrxiv2/</link>
+      <link>https://rimoaccelerator.github.io/publication/2019chemrxiv2/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/publication/2019chemrxiv2/</guid>
+      <guid>https://rimoaccelerator.github.io/publication/2019chemrxiv2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solvent Molecules Play a Role in an SNAr Reaction</title>
-      <link>https://rimoaccelerator.github.io/BSJ/publication/2019chemrxiv1/</link>
+      <link>https://rimoaccelerator.github.io/publication/2019chemrxiv1/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/publication/2019chemrxiv1/</guid>
+      <guid>https://rimoaccelerator.github.io/publication/2019chemrxiv1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computation Revealed Mechanistic Complexity of Low-Valent Cobalt-Catalyzed Markovnikov Hydrosilylation</title>
-      <link>https://rimoaccelerator.github.io/BSJ/publication/2018joc/</link>
+      <link>https://rimoaccelerator.github.io/publication/2018joc/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/publication/2018joc/</guid>
+      <guid>https://rimoaccelerator.github.io/publication/2018joc/</guid>
       <description></description>
     </item>
     
