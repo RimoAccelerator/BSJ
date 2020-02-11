@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Yumiao Ma @ BSJ Institute</title>
-    <link>https://rimoaccelerator.github.io/BSJ/tags/</link>
-      <atom:link href="https://rimoaccelerator.github.io/BSJ/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.bsj-institute.top/tags/</link>
+      <atom:link href="http://www.bsj-institute.top/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>https://rimoaccelerator.github.io/BSJ/tags/</link>
+      <link>http://www.bsj-institute.top/tags/</link>
     </image>
     
     <item>
       <title>Dynamical Effect</title>
-      <link>https://rimoaccelerator.github.io/BSJ/tags/dynamical-effect/</link>
+      <link>http://www.bsj-institute.top/tags/dynamical-effect/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/tags/dynamical-effect/</guid>
+      <guid>http://www.bsj-institute.top/tags/dynamical-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explicit Solvation</title>
-      <link>https://rimoaccelerator.github.io/BSJ/tags/explicit-solvation/</link>
+      <link>http://www.bsj-institute.top/tags/explicit-solvation/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/tags/explicit-solvation/</guid>
+      <guid>http://www.bsj-institute.top/tags/explicit-solvation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mechanistic Research</title>
-      <link>https://rimoaccelerator.github.io/BSJ/tags/mechanistic-research/</link>
+      <link>http://www.bsj-institute.top/tags/mechanistic-research/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/tags/mechanistic-research/</guid>
+      <guid>http://www.bsj-institute.top/tags/mechanistic-research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular Design</title>
-      <link>https://rimoaccelerator.github.io/BSJ/tags/molecular-design/</link>
+      <link>http://www.bsj-institute.top/tags/molecular-design/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/tags/molecular-design/</guid>
+      <guid>http://www.bsj-institute.top/tags/molecular-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physical Organic Chemistry</title>
-      <link>https://rimoaccelerator.github.io/BSJ/tags/physical-organic-chemistry/</link>
+      <link>http://www.bsj-institute.top/tags/physical-organic-chemistry/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/tags/physical-organic-chemistry/</guid>
+      <guid>http://www.bsj-institute.top/tags/physical-organic-chemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Physical Organic Chemistry</title>
-      <link>https://rimoaccelerator.github.io/BSJ/tags/computational-physical-organic-chemistry/</link>
+      <link>http://www.bsj-institute.top/tags/computational-physical-organic-chemistry/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/tags/computational-physical-organic-chemistry/</guid>
+      <guid>http://www.bsj-institute.top/tags/computational-physical-organic-chemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://rimoaccelerator.github.io/BSJ/tags/academic/</link>
+      <link>http://www.bsj-institute.top/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/tags/academic/</guid>
+      <guid>http://www.bsj-institute.top/tags/academic/</guid>
       <description></description>
     </item>
     

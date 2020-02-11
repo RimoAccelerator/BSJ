@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Yumiao Ma @ BSJ Institute</title>
-    <link>https://rimoaccelerator.github.io/BSJ/project/</link>
-      <atom:link href="https://rimoaccelerator.github.io/BSJ/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.bsj-institute.top/project/</link>
+      <atom:link href="http://www.bsj-institute.top/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
-      <link>https://rimoaccelerator.github.io/BSJ/project/</link>
+      <link>http://www.bsj-institute.top/project/</link>
     </image>
     
     <item>
       <title>Computational Physical Organic Chemistry</title>
-      <link>https://rimoaccelerator.github.io/BSJ/project/physical/</link>
+      <link>http://www.bsj-institute.top/project/physical/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/project/physical/</guid>
+      <guid>http://www.bsj-institute.top/project/physical/</guid>
       <description>&lt;p&gt;Computations have been widely used to understand fundamental physical organic concepts. By combining physical organic analysis, energy calculations and wavefunction analysis, one can obtain direct and accurate understanding toward the existence and origin of important interactions in a molecule. One of Ma&amp;rsquo;s internet publication program, &amp;ldquo;Talks on Modern Physical Organic Chemistry&amp;rdquo;, focuses on some advanced and important topics in physical organic chemistry and their rapid development. By combining electronic structure calculations, these topics are to be discussed in a quantatative and logical way in this program.&lt;/p&gt;
 &lt;p&gt;Guided by calculations and wavefunction analysis, Ma is able to design molecules with novel electronic structure, as well as novel reactions. One example is Ma&amp;rsquo;s work on thermodynamically stable triplet carbenes.&lt;/p&gt;
 &lt;p&gt;Another aim of research in this field is to obtain clear solution to some long-standing problems in the history of physical organic chemistry. Ma is working on several researched in this area.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Explicit Solvation and Dynamical Effect</title>
-      <link>https://rimoaccelerator.github.io/BSJ/project/explicit/</link>
+      <link>http://www.bsj-institute.top/project/explicit/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/project/explicit/</guid>
+      <guid>http://www.bsj-institute.top/project/explicit/</guid>
       <description>&lt;p&gt;Inspired by (and under the kind help of) Prof. Singleton (Texas A&amp;amp;M University), Ma&amp;rsquo;s interest turned to advanced chemical theories beyound transition state theory (TST). This field mainly consists of bifurcation, plateu reactions, explicit solvation, etc.&lt;/p&gt;
 &lt;p&gt;Singleton&amp;rsquo;s work in 2016 has revealed that the regioselectivity of toluene nitration is determined by solvation dynamics. It is the starting point for Ma to get into the field of dynamical effects. In 2019 Ma examined the SNAr reaction between sodium methoxide and 4-nitrobenzonitrile. Although standard DFT calculation under implicit solvation predicted that the reaction would be rapid and complete, the experiments showed rather different results. By using explicit solvation model with 62 solvent (DMSO) molecules, Ma discovered that the free energy surface was greatly modified by the presence of solvents. I.e. implicit solvation model gave totally wrong free energy surface (FES), although DMSO does not directly participate in the reaction Molecular dynamics with explicit solvation gave satisfying explanation for the experimental observations. The modification of FES was attributed to the entropy effect due to solvent dynamics. To the best of Ma&amp;rsquo;s knowledge, it is the first work showing that explicit solvation could significantly modify the FES for small molecular reactions.&lt;/p&gt;
 &lt;p&gt;Obviously the influence of explicit solvation is rather complex. In the current stage, the only way to account for it is to run molecular dynamics, which is time-consuming. There are two ways to overcome this problem. First, to propose a new theory (or a new semi-emperical model just like implicit solvation used currently) to account for the dynamical effect of solvents. Second, to make DFT calculations 100 times faster.&lt;/p&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>Mechanistic Research</title>
-      <link>https://rimoaccelerator.github.io/BSJ/project/mechanistic/</link>
+      <link>http://www.bsj-institute.top/project/mechanistic/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rimoaccelerator.github.io/BSJ/project/mechanistic/</guid>
+      <guid>http://www.bsj-institute.top/project/mechanistic/</guid>
       <description>&lt;p&gt;The experimental data for chemical reactions have been exploding in the past years. Instead of considering chemistry as a stack of trials and errors, the importance of rational design for the development of new transformations has been more and more important. Mechanistic research is the foundation for understanding chemical behavior and designing chemical reactions. In complemention to experimental methods, DFT calculations have been shown to be a powerful tool to gain deep insight into reaction mechanism. By combining mechanistic calculation and electronic structural analysis, new reaction modes are to be discovered.&lt;/p&gt;
 &lt;p&gt;By using DFT calculations, the mechanism for low-valent cobalt complexes catalyzed hydrosilylation of alkynes was revealed, and new guidelines for further ligand designing were obtained. There is still some further questions in this field and further work is under consideration.&lt;/p&gt;
 &lt;p&gt;Yumiao Ma considers DFT calculations in the &amp;ldquo;position zero&amp;rdquo; in the life of a &amp;ldquo;mechanistic hunter&amp;rdquo;. The basic interest  of Yumiao Ma in this field is to rediscover some new insights from experimentally reported methodologies.&lt;/p&gt;
