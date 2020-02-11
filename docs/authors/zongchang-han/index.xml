@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zongchang Han | Yumiao Ma @ BSJ Institute</title>
-    <link>/authors/zongchang-han/</link>
-      <atom:link href="/authors/zongchang-han/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rimoaccelerator.github.io/BSJ/authors/zongchang-han/</link>
+      <atom:link href="https://rimoaccelerator.github.io/BSJ/authors/zongchang-han/index.xml" rel="self" type="application/rss+xml" />
     <description>Zongchang Han</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Zongchang Han</title>
-      <link>/authors/zongchang-han/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/authors/zongchang-han/</link>
     </image>
     
     <item>
       <title>Computation Revealed Mechanistic Complexity of Low-Valent Cobalt-Catalyzed Markovnikov Hydrosilylation</title>
-      <link>/publication/2018joc/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/publication/2018joc/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018joc/</guid>
+      <guid>https://rimoaccelerator.github.io/BSJ/publication/2018joc/</guid>
       <description></description>
     </item>
     

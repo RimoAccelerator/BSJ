@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Yumiao Ma @ BSJ Institute</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rimoaccelerator.github.io/BSJ/authors/</link>
+      <atom:link href="https://rimoaccelerator.github.io/BSJ/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/yumiao-ma/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/authors/yumiao-ma/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/yumiao-ma/</guid>
+      <guid>https://rimoaccelerator.github.io/BSJ/authors/yumiao-ma/</guid>
       <description>&lt;p&gt;In 2019, Ma had a rupture with Tsinghua University, and decided to using BSJ Institute as the corresponding address for Ma&amp;rsquo;s publications. The aim of BSJ Institute is to provide the possibility for Ma to conduct completely free and non-utilitarian research. The philosophy of BSJ Institute is &amp;ldquo;Numbers and Insights, Love and Freedom&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>admin</title>
-      <link>/authors/admin/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/authors/admin/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://rimoaccelerator.github.io/BSJ/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zongchang Han</title>
-      <link>/authors/zongchang-han/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/authors/zongchang-han/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/zongchang-han/</guid>
+      <guid>https://rimoaccelerator.github.io/BSJ/authors/zongchang-han/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin1/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/authors/admin1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin1/</guid>
+      <guid>https://rimoaccelerator.github.io/BSJ/authors/admin1/</guid>
       <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

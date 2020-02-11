@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides2s | Yumiao Ma @ BSJ Institute</title>
-    <link>/slides2/</link>
-      <atom:link href="/slides2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rimoaccelerator.github.io/BSJ/slides2/</link>
+      <atom:link href="https://rimoaccelerator.github.io/BSJ/slides2/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides2s</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Slides2s</title>
-      <link>/slides2/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/slides2/</link>
     </image>
     
     <item>
       <title>Slides</title>
-      <link>/slides2/example/</link>
+      <link>https://rimoaccelerator.github.io/BSJ/slides2/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides2/example/</guid>
+      <guid>https://rimoaccelerator.github.io/BSJ/slides2/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
