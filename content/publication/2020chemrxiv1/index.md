@@ -28,7 +28,7 @@ featured: false
 links:
 #- name: ChemRxiv Page
 #  url: https://chemrxiv.org/articles/Toward_Thermodynamically_Stable_Triplet_Carbenes/11336993
-url_pdf: https://chemrxiv.org/articles/Toward_Thermodynamically_Stable_Triplet_Carbenes/11336993
+url_pdf: https://chemrxiv.org/articles/On_the_Performances_of_Density_Functionals_for_Open_Shell_First-Row_Transition_Metal_Compounds/11888838
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
