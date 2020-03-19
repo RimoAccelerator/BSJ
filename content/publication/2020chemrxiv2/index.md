@@ -1,5 +1,5 @@
 ---
-title:"The Decisive Role for Secondary Coordination Sphere Nucleophiles on Hydrogen Atom Transfer (HAT) Reactions: Does It Exist and What Is Its Origin?"
+title: "The Decisive Role for Secondary Coordination Sphere Nucleophiles on Hydrogen Atom Transfer (HAT) Reactions: Does It Exist and What Is Its Origin?"
 authors:
 - Yumiao Ma
 - Yishan Li
