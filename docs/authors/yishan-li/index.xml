@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yishan Li | Yumiao Ma @ BSJ Institute</title>
+    <link>http://www.bsj-institute.top/authors/yishan-li/</link>
+      <atom:link href="http://www.bsj-institute.top/authors/yishan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yishan Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yishan Li</title>
+      <link>http://www.bsj-institute.top/authors/yishan-li/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://www.bsj-institute.top/publication/2020chemrxiv2/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2020chemrxiv2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

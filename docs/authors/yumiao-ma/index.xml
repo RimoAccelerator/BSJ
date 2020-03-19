@@ -5,12 +5,20 @@
     <link>http://www.bsj-institute.top/authors/yumiao-ma/</link>
       <atom:link href="http://www.bsj-institute.top/authors/yumiao-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Yumiao Ma @ BSJ Institute</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yumiao Ma @ BSJ Institute</title>
       <link>http://www.bsj-institute.top/authors/yumiao-ma/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>http://www.bsj-institute.top/publication/2020chemrxiv2/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2020chemrxiv2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Performances of Density Functionals for Open Shell First-Row Transition Metal Compounds</title>
