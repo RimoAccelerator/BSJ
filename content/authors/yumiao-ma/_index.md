@@ -61,5 +61,5 @@ user_groups:
 - Visitors
 ---
 
-In 2019, Ma had a rupture with Tsinghua University, and decided to using BSJ Institute as the corresponding address for Ma's publications. The aim of BSJ Institute is to provide the possibility for Ma to conduct completely free and non-utilitarian research. The philosophy of BSJ Institute is "Numbers and Insights, Love and Freedom".
+In 2019, Ma had a rupture with Tsinghua University, and decided to use BSJ Institute as the corresponding address for Ma's publications. The aim of BSJ Institute is to provide the possibility for Ma to conduct completely free and non-utilitarian research. The philosophy of BSJ Institute is "Numbers and Insights, Love and Freedom".
 
