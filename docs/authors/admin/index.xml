@@ -5,20 +5,12 @@
     <link>http://www.bsj-institute.top/authors/admin/</link>
       <atom:link href="http://www.bsj-institute.top/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>admin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>admin</title>
       <link>http://www.bsj-institute.top/authors/admin/</link>
     </image>
-    
-    <item>
-      <title>Solvent Molecules Play a Role in an SNAr Reaction</title>
-      <link>http://www.bsj-institute.top/publication/2019chemrxiv1/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.bsj-institute.top/publication/2019chemrxiv1/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>

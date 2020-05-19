@@ -1,7 +1,7 @@
 ---
 title: "Solvent Molecules Play a Role in an SNAr Reaction"
 authors:
-- admin
+- Yumiao Ma
 date: "2019-02-28T00:00:00Z"
 doi: "10.26434/chemrxiv.7782797"
 
