@@ -77,22 +77,6 @@
     </item>
     
     <item>
-      <title>The Decisive Role for Secondary Coordination Sphere Nucleophiles on Hydrogen Atom Transfer (HAT) Reactions: Does It Exist and What Is Its Origin?</title>
-      <link>http://www.bsj-institute.top/publication/2020chemrxiv2/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.bsj-institute.top/publication/2020chemrxiv2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Performances of Density Functionals for Open Shell First-Row Transition Metal Compounds</title>
-      <link>http://www.bsj-institute.top/publication/2020chemrxiv1/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.bsj-institute.top/publication/2020chemrxiv1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computational Physical Organic Chemistry</title>
       <link>http://www.bsj-institute.top/project/physical/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -124,14 +108,6 @@
 &lt;p&gt;By using DFT calculations, the mechanism for low-valent cobalt complexes catalyzed hydrosilylation of alkynes was revealed, and new guidelines for further ligand designing were obtained. There is still some further questions in this field and further work is under consideration.&lt;/p&gt;
 &lt;p&gt;Yumiao Ma considers DFT calculations in the &amp;ldquo;position zero&amp;rdquo; in the life of a &amp;ldquo;mechanistic hunter&amp;rdquo;. The basic interest  of Yumiao Ma in this field is to rediscover some new insights from experimentally reported methodologies.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Toward Thermodynamically Stable Triplet Carbenes</title>
-      <link>http://www.bsj-institute.top/publication/2019chemrxiv2/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.bsj-institute.top/publication/2019chemrxiv2/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -173,7 +149,7 @@ data.head()
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \&lt;br&gt;
+&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \&lt;br&gt;
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
@@ -369,14 +345,6 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     </item>
     
     <item>
-      <title>Solvent Molecules Play a Role in an SNAr Reaction</title>
-      <link>http://www.bsj-institute.top/publication/2019chemrxiv1/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.bsj-institute.top/publication/2019chemrxiv1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>http://www.bsj-institute.top/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -557,14 +525,6 @@ Three
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Computation Revealed Mechanistic Complexity of Low-Valent Cobalt-Catalyzed Markovnikov Hydrosilylation</title>
-      <link>http://www.bsj-institute.top/publication/2018joc/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.bsj-institute.top/publication/2018joc/</guid>
-      <description></description>
     </item>
     
     <item>
