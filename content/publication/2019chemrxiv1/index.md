@@ -24,7 +24,7 @@ summary: Only with 62 explicit DMSO molecules can one explain the experimental o
 
 tags:
 - Explicit Solvation
-featured: true
+featured: false
 
 links:
 #- name: ChemRxiv Page
