@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhaohong Wang | Yumiao Ma @ BSJ Institute</title>
+    <link>http://www.bsj-institute.top/authors/zhaohong-wang/</link>
+      <atom:link href="http://www.bsj-institute.top/authors/zhaohong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhaohong Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Zhaohong Wang</title>
+      <link>http://www.bsj-institute.top/authors/zhaohong-wang/</link>
+    </image>
+    
+    <item>
+      <title>Boosting Palladium Catalyzed Aryl–Nitro Bond Activation Reaction by Understanding the Electronic, Electrostatic and Polarization Effect: A Computational Study from Basic Understanding to Ligand Design</title>
+      <link>http://www.bsj-institute.top/publication/2021chemrxiv1/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2021chemrxiv1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

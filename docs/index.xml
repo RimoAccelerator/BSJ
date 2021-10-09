@@ -77,6 +77,22 @@
     </item>
     
     <item>
+      <title>Boosting Palladium Catalyzed Aryl–Nitro Bond Activation Reaction by Understanding the Electronic, Electrostatic and Polarization Effect: A Computational Study from Basic Understanding to Ligand Design</title>
+      <link>http://www.bsj-institute.top/publication/2021chemrxiv1/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2021chemrxiv1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cationic yet Stronger Donor: A Surprising Partner Effect and the Partner Strategy in Accelerating a Pincer-Co Catalyzed Nitrile Hydroboration Reaction</title>
+      <link>http://www.bsj-institute.top/publication/2021chemrxiv2/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2021chemrxiv2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nitrogen Heterocyclic Carbene (NHC) as a Versatile Oxygen Atom Acceptor that Abstracts Oxygen Atom from Aldehydes and CO2: A Computational Research</title>
       <link>http://www.bsj-institute.top/publication/2020chemrxiv3/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
@@ -437,7 +453,8 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
