@@ -25,7 +25,7 @@ publication: "Organic Chemistry Frontiers"
 publication_short: ""
 abstract: "Dyotropic rearrangement of β-lactones is a neglected treasure in the family of multi-bond reactions and pericyclic reactions. Despite its appealling synthetic potential, the complicate migration selectivity greatly limits its broadwide application. In this work, we report the first systematic and comprehensive computational study on the dyotropic rearrangements of β-lactones. The use of double-hybrid functional ensures the accuracy of results. On the basis of the present study and our previous work, five methods to control the reaction selectivity of dyotropic rearrangements of b-lactones have been summarized, providing valuable references for synthetic chemists to design and develop brand-new type dyotropic reactions."
 # Summary. An optional shortened abstract.
-summary: "Go beyond PCET"
+summary: "An old mystery"
 
 tags:
 - Computational Chemistry
