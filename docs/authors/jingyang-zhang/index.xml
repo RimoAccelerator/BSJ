@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingyang Zhang | Yumiao Ma @ BSJ Institute</title>
+    <link>http://www.bsj-institute.top/authors/jingyang-zhang/</link>
+      <atom:link href="http://www.bsj-institute.top/authors/jingyang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingyang Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jingyang Zhang</title>
+      <link>http://www.bsj-institute.top/authors/jingyang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Elucidating the Selectivity of Dyotropic Rearrangements of β-Lactones: A Computational Survey</title>
+      <link>http://www.bsj-institute.top/publication/2021ocf/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2021ocf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
