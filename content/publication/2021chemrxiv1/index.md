@@ -2,9 +2,10 @@
 title: "Boosting Palladium Catalyzed Aryl–Nitro Bond Activation Reaction by Understanding the Electronic, Electrostatic and Polarization Effect: A Computational Study from Basic Understanding to Ligand Design"
 authors:
 - Yumiao Ma
+- Aqeel Hussein
 - Zhaohong Wang
 date: "2021-11-20T00:00:00Z"
-doi: "10.33774/chemrxiv-2021-12p4x-v2"
+doi: "10.1021/acs.joc.1c02536"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-18T00:00:00Z"
@@ -13,7 +14,7 @@ publishDate: "2021-08-18T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

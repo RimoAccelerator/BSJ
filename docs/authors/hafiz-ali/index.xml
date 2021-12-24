@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hafiz Ali | Yumiao Ma @ BSJ Institute</title>
+    <link>http://www.bsj-institute.top/authors/hafiz-ali/</link>
+      <atom:link href="http://www.bsj-institute.top/authors/hafiz-ali/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hafiz Ali</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hafiz Ali</title>
+      <link>http://www.bsj-institute.top/authors/hafiz-ali/</link>
+    </image>
+    
+    <item>
+      <title>A Mechanistic Study on Gold(I)-Catalyzed Cyclization of Propargylic Amide: Revealing the Impact of Expanded-Ring N-Heterocyclic Carbenes</title>
+      <link>http://www.bsj-institute.top/publication/2021cst/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2021cst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

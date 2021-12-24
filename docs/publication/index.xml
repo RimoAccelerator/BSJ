@@ -5,12 +5,28 @@
     <link>http://www.bsj-institute.top/publication/</link>
       <atom:link href="http://www.bsj-institute.top/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>http://www.bsj-institute.top/publication/</link>
     </image>
+    
+    <item>
+      <title>A Mechanistic Study on Gold(I)-Catalyzed Cyclization of Propargylic Amide: Revealing the Impact of Expanded-Ring N-Heterocyclic Carbenes</title>
+      <link>http://www.bsj-institute.top/publication/2021cst/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2021cst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predominance of the Second Cycle in the Homogeneous Os-Catalyzed Dihydroxylation: Nature of Os(VI)→Os(VIII) Reoxidation and Unprecedented Roles for the Amine-N-Oxide</title>
+      <link>http://www.bsj-institute.top/publication/2021cst2/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2021cst2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Addition Coupled Electron Transfer (ACET) and Addition Coupled Proton Coupled Electron Transfer (ACPCET)</title>
