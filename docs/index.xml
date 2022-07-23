@@ -5,7 +5,7 @@
     <link>http://www.bsj-institute.top/</link>
       <atom:link href="http://www.bsj-institute.top/index.xml" rel="self" type="application/rss+xml" />
     <description>Yumiao Ma @ BSJ Institute</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yumiao Ma @ BSJ Institute</title>
@@ -52,6 +52,22 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The Potential Role of Addition Coupled Electron Transfer (ACET) in Single Atom Catalysis: The Hydrogen Transfer from Metalloporphyrin to Imine is an ACET</title>
+      <link>http://www.bsj-institute.top/publication/2022chemrxiv2/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2022chemrxiv2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Pericyclic-Coupled Electron Transfer: I. Stepwise Formal Diels-Alder Cycloaddition Enabled by Addition-Coupled Electron Transfer</title>
+      <link>http://www.bsj-institute.top/publication/2022chemrxiv1/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2022chemrxiv1/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -140,6 +156,17 @@
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       <guid>http://www.bsj-institute.top/publication/2020chemrxiv1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Addition Coupled Electron Transfer (ACET)</title>
+      <link>http://www.bsj-institute.top/project/acet/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/project/acet/</guid>
+      <description>&lt;p&gt;Although Proton-Coupled Electron Transfer (PCET) has been known as one of the elementary steps of the highest interests recently, it is unclear whether other reactions than proton transfer (PT) is able to couple with electron transfer (ET). The answer is, according to Ma&amp;rsquo;s series study, &amp;ldquo;YES&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;By studying several examples, either artificially designed or experimentally widely-used, it has been shown that an addition reaction into an unsaturated substrate can be coupled with an ET or even PCET event, leading to the novel elementary steps named ACET and ACPCET. In the latest report, it has been shown that the single-atom catalyzed transfer hydrogenation of imine is an ACET, and a theoretical model has been proposed.&lt;/p&gt;
+&lt;p&gt;One open question in the field is the possibility of the coupling between a pericyclic reaction and an ET. If it could happen, the electron counting rule of pericyclic reaction might be changed. In one of the works, Ma has shown that the formal Diels-Alder reaction between unactivated substrates can be activated by an ET, leading to stepwise ACET mechanism. Further researches are ongoing to design and validate other ACET reactions and so-based synthetic methodologies.&lt;/p&gt;
+</description>
     </item>
     
     <item>

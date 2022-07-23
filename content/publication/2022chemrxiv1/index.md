@@ -1,12 +1,12 @@
 ---
-title: "Addition Coupled Electron Transfer (ACET) and Addition Coupled Proton Coupled Electron Transfer (ACPCET)"
+title: "Formal Pericyclic-Coupled Electron Transfer: I. Stepwise Formal Diels-Alder Cycloaddition Enabled by Addition-Coupled Electron Transfer"
 authors:
 - Yumiao Ma
-date: "2021-11-23T00:00:00Z"
-doi: "chemrxiv-2021-qlh3r-v2"
+date: "2022-02-01T00:00:00Z"
+doi: "10.26434/chemrxiv-2022-zt155-v3"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-18T00:00:00Z"
+publishDate: "2022-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,18 +17,19 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
-abstract: The new types of elementary reaction in which a nucleophilic addition (A) to quinones is coupled with electron transfer (ET) and even further proton transfer (PT) are suggested herein by density functional theory calculation, which are called Addition Coupled Electron Transfer (ACET) and Addition Coupled Proton Coupled Electron Transfer (ACPCET). With a [2.2]paracyclophane-derived biquinone (1) as the substrate, the nature of nucleophilic addition onto its sp2 carbons exhibits a change from stepwise A-ET-PT to ACET-PT and further to ACPCET, in parallel with the decreased nucleophilicity of the attacking reagent. In addition, we further proposed six possible potential energy surfaces and the coupling modes among A, ET and PT, in which three have been found in this work. Quasi-classical trajectory shows that the ACET and PT event can also be dynamically concerted even for an ACET-PT mechanism.
+abstract: The formal Diels-Alder (D-A) reaction of alkenes with 1,2-diimine and related substrates is designed and studied by density functional theory (DFT), multi-reference and quasi-classical trajectory calculations in the presence of a benzoquinone-based organic oxidant. The reaction is found to occur through an Addition-Coupled Electron Transfer (ACET) with one electron transferred to the oxidant in one elementary step, affording a carbon-radical, followed by an intramolecular radical addition. The overall barrier is significantly reduced as compared to the traditional concerted D-A reaction. The reaction with two new bond formation events in one elementary step coupled with electron transfer (concerted Pericyclic-Coupled Electron Transfer, cPeriCET) was not found. This work reveals that coupling to electron transfer might be a tool to achieve cycloaddition reactions with unactivated substrates.
 # Summary. An optional shortened abstract.
-summary: "Go beyond PCET"
+summary: "Can pericyclic reaction couple with ET?"
 
 tags:
 - Computational Chemistry
 - Physical Organic Chemistry
+- ACET
 featured: false
 
 links:
 #- name: ChemRxiv Page
-#  url: https://chemrxiv.org/articles/Toward_Thermodynamically_Stable_Triplet_Carbenes/11336993
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/622af3f39e8766f8a6e448d2
 #url_pdf: "boosting.pdf"
 #url_code: '#'
 #url_dataset: '#'
@@ -54,6 +55,7 @@ image:
 projects:
 - physical
 - ACET
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
