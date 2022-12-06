@@ -1,5 +1,5 @@
 ---
-title: "KST48: A Powerful Tool for MECP location"
+title: "KST48: A Powerful Tool for MECP locating"
 event: 
 event_url: https://github.com/RimoAccelerator/KST48
 
