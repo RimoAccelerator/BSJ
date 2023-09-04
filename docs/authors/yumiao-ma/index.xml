@@ -5,12 +5,20 @@
     <link>http://www.bsj-institute.top/authors/yumiao-ma/</link>
       <atom:link href="http://www.bsj-institute.top/authors/yumiao-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Yumiao Ma @ BSJ Institute</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yumiao Ma @ BSJ Institute</title>
       <link>http://www.bsj-institute.top/authors/yumiao-ma/</link>
     </image>
+    
+    <item>
+      <title>The Ambimodal Addition-Coupled Electron Transfer (ACET) Mechanism in a Pb(IV)-Promoted Oxidative Dearomatization Reaction</title>
+      <link>http://www.bsj-institute.top/publication/2023chemrxiv1/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2023chemrxiv1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KTTK: A Python tool to build initial guess from fragments for Gaussian</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>The Mechanistic Basis for the Oxoammonium Salt Mediated Tertiary Alcohol Oxidative Transformation Decoded by Computations: Oxoammonium Cation Acts as a Masked Carbocation, and the Previously Believed Addition Mechanism is Ruled Out</title>
-      <link>http://www.bsj-institute.top/publication/2022chemrxiv3/</link>
+      <title>Mechanistic Basis for Oxoammonium Salt-Mediated Tertiary Alcohol Oxidative Transformation Decoded by Computations and Experiments</title>
+      <link>http://www.bsj-institute.top/publication/2022chemselect/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.bsj-institute.top/publication/2022chemrxiv3/</guid>
+      <guid>http://www.bsj-institute.top/publication/2022chemselect/</guid>
       <description></description>
     </item>
     

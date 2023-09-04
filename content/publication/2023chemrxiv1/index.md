@@ -1,12 +1,12 @@
 ---
-title: "The Mechanistic Basis for the Oxoammonium Salt Mediated Tertiary Alcohol Oxidative Transformation Decoded by Computations: Oxoammonium Cation Acts as a Masked Carbocation, and the Previously Believed Addition Mechanism is Ruled Out"
+title: "The Ambimodal Addition-Coupled Electron Transfer (ACET) Mechanism in a Pb(IV)-Promoted Oxidative Dearomatization Reaction"
 authors:
 - Yumiao Ma
-date: "2022-10-05T00:00:00Z"
-doi: "10.26434/chemrxiv-2022-28rkk"
+date: "2023-08-29T00:00:00Z"
+doi: "10.26434/chemrxiv-2023-ph4qt"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-05T00:00:00Z"
+publishDate: "2022-06-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,14 +17,15 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
-abstract: Oxoammonium salts have been shown to be superior reagents to mediate various reactions of tertiary alcohols, including eliminative functionalization of tertiary benzylic alcohols, oxidative rearrangement of tertiary allylic alcohols, and oxidative Nazarov cyclization. These reactions have been believed to be triggered by the addition of alcohols to the N–O double bonds of the oxoammonium cation for a long time. In this work, however, combined density functional theory (DFT) and ab-initio molecular dynamics (AIMD) results show that the formation of this adduct is thermodynamically highly disfavored. Instead, through a thorough enumeration of possible mechanisms, it has been shown that the reaction occurs through a surprising ring-opening of oxoammonium cation. Oxoammonium cation acts as a masked tertiary carbocation, which triggers all the following reactions.
+abstract: The mechanism of Pb(IV) promoted phenol oxidative dearomatization reaction has been traditionally attributed to a carbocation mechanism. In 2011, Pettus reported an oxidative dearomatization reaction leading to a mixture of a formal [5+2] and a C–O bond formation product. By employing density functional theory (DFT) and quasi-molecular dynamics calculations, it was demonstrated that the reaction does not occur through a carbocation intermediate, but instead proceeds through an addition-coupled electron transfer (ACET) mechanism. Moreover, the ACET exhibits ambimodality, wherein a transition state results in 4 ~ 6 distinct outcomes through post-TS bifurcation. The reported selectivity can be effectively rationalized by the newly proposed mechanism.
 # Summary. An optional shortened abstract.
-summary: "Revisiting an old mechanism."
+summary: "Brand new chemistry in old reactions."
 
 tags:
 - Computational Chemistry
 - Physical Organic Chemistry
-featured: false
+- ACET
+featured: yes
 
 links:
 #- name: ChemRxiv Page
@@ -52,7 +53,8 @@ image:
 #   Otherwise, set `projects: []`.
 
 projects:
-- mechanistic
+- physical
+- ACET
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
