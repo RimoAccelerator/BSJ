@@ -1,35 +1,35 @@
 ---
-title: "A Computational Research on Ag(I)-Catalyzed Cubane Rearrangement: Mechanism, Metal and Counteranion Effect, Ligand Engineering and Post-Transition State Desymmetrization"
+title: "Ambimodal Addition-Coupled Electron Transfer Mechanism in a Pb(IV)-Promoted Oxidative Dearomatization Reaction"
 authors:
 - Yumiao Ma
-date: "2023-12-18T00:00:00Z"
-doi: "10.26434/chemrxiv-2023-6nzrj"
+date: "2023-08-29T00:00:00Z"
+doi: "10.1021/acs.joc.3c01956"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-18T00:00:00Z"
+publishDate: "2022-06-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: ""
-# publication_short: ""
-abstract: "Ag(I) salts have demonstrated superior catalytic activity in the cubane-cuneane rearrangement. This research presents a comprehensive mechanistic investigation to answer the following questions: (1) What is the specific mechanism involved? (2) How does Ag differ from other metals in this context? (3) What is the nature of the oxidative addition by Ag(I) salts? (4) How does the choice of ligand or counteranion influence the reaction? Based on the mechanistic findings, a catalytic system based on a chiral ether ligand is predicted to exhibit milder Lewis acidity, lower reaction barriers, higher chemoselectivity, and the potential for achieving enantioselective synthesis through post-transition state desymmetrization."
-
+publication: ""
+publication_short: ""
+abstract: The mechanism of Pb(IV) promoted phenol oxidative dearomatization reaction has been traditionally attributed to a carbocation mechanism. In 2011, Pettus reported an oxidative dearomatization reaction leading to a mixture of a formal [5+2] and a C–O bond formation product. By employing density functional theory (DFT) and quasi-molecular dynamics calculations, it was demonstrated that the reaction does not occur through a carbocation intermediate, but instead proceeds through an addition-coupled electron transfer (ACET) mechanism. Moreover, the ACET exhibits ambimodality, wherein a transition state results in 4 ~ 6 distinct outcomes through post-TS bifurcation. The reported selectivity can be effectively rationalized by the newly proposed mechanism.
 # Summary. An optional shortened abstract.
-summary: "This is Silver."
+summary: "Brand new chemistry in old reactions."
 
 tags:
 - Computational Chemistry
 - Physical Organic Chemistry
-featured: false
+- ACET
+featured: yes
 
 links:
 #- name: ChemRxiv Page
-#  url: https://chemrxiv.org/articles/Toward_Thermodynamically_Stable_Triplet_Carbenes/11336993
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/622af3f39e8766f8a6e448d2
 #url_pdf: "boosting.pdf"
 #url_code: '#'
 #url_dataset: '#'
@@ -54,7 +54,8 @@ image:
 
 projects:
 - physical
-- mechanistic
+- ACET
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

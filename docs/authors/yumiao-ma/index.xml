@@ -5,7 +5,7 @@
     <link>http://www.bsj-institute.top/authors/yumiao-ma/</link>
       <atom:link href="http://www.bsj-institute.top/authors/yumiao-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Yumiao Ma @ BSJ Institute</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yumiao Ma @ BSJ Institute</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>The Ambimodal Addition-Coupled Electron Transfer (ACET) Mechanism in a Pb(IV)-Promoted Oxidative Dearomatization Reaction</title>
+      <title>A Computational Research on Ag(I)-Catalyzed Cubane Rearrangement: Mechanism, Metal and Counteranion Effect, Ligand Engineering and Post-Transition State Desymmetrization</title>
       <link>http://www.bsj-institute.top/publication/2023chemrxiv1/</link>
-      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.bsj-institute.top/publication/2023chemrxiv1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambimodal Addition-Coupled Electron Transfer Mechanism in a Pb(IV)-Promoted Oxidative Dearomatization Reaction</title>
+      <link>http://www.bsj-institute.top/publication/2023joc1/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/publication/2023joc1/</guid>
       <description></description>
     </item>
     
