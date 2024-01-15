@@ -5,12 +5,20 @@
     <link>http://www.bsj-institute.top/talk/</link>
       <atom:link href="http://www.bsj-institute.top/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Softwares &amp; Programs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Softwares &amp; Programs</title>
       <link>http://www.bsj-institute.top/talk/</link>
     </image>
+    
+    <item>
+      <title>KirariNto： a Python Package for Excited State Tracking during Geometry Optimization, through NTO Overlap Method</title>
+      <link>http://www.bsj-institute.top/talk/kirarinto/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/talk/kirarinto/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KTTK: A Python tool to build initial guess from fragments for Gaussian</title>

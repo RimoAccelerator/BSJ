@@ -5,12 +5,20 @@
     <link>http://www.bsj-institute.top/authors/yumiao-ma/</link>
       <atom:link href="http://www.bsj-institute.top/authors/yumiao-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Yumiao Ma @ BSJ Institute</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yumiao Ma @ BSJ Institute</title>
       <link>http://www.bsj-institute.top/authors/yumiao-ma/</link>
     </image>
+    
+    <item>
+      <title>KirariNto： a Python Package for Excited State Tracking during Geometry Optimization, through NTO Overlap Method</title>
+      <link>http://www.bsj-institute.top/talk/kirarinto/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.bsj-institute.top/talk/kirarinto/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Computational Research on Ag(I)-Catalyzed Cubane Rearrangement: Mechanism, Metal and Counteranion Effect, Ligand Engineering and Post-Transition State Desymmetrization</title>
