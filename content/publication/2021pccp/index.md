@@ -1,9 +1,10 @@
 ---
-title: "Cationic yet Stronger Donor: A Surprising Partner Effect and the Partner Strategy in Accelerating a Pincer-Co Catalyzed Nitrile Hydroboration Reaction"
+title: "Partner effect in accelerating pincer-co catalyzed nitrile hydroboration reactions†"
 authors:
 - Yumiao Ma
+- Aqeel A. Hussein
 date: "2021-10-07T00:00:00Z"
-doi: "10.33774/chemrxiv-2021-12p4x-v2"
+doi: "10.1039/D2CP03217A"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-18T00:00:00Z"
@@ -12,7 +13,7 @@ publishDate: "2021-08-18T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
